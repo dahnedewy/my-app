@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Harare" />
         <footer>
           This project was coded by Josephine Marecha and is {""}
-          <a href="https://github.com/dahnedewy/my-app" target="blank">
+          <a href="https://github.com/dahnedewy/my-app" target="blank" rel="">
             open-sourced on GitHub
           </a>
         </footer>
