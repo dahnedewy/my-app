@@ -1,9 +1,10 @@
 .Weather {
-  font-family: arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
+  color: rgb(35, 30, 30);
+  background-color: rgb(169, 237, 214);
 }
 .Weather form {
   margin-bottom: 20px;
